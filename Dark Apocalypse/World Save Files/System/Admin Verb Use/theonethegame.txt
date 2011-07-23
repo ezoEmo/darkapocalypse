@@ -1,0 +1,1216 @@
+Level UP:
+   the jkj, GM Rank 5 Level UPed the jkj, GM Rank 5.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the jkj (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:34:56 06/05/2008
+
+Level UP:
+   the fgf, GM Rank 5 Level UPed the fgf, GM Rank 5.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the fgf (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 00:13:36 06/16/2008
+
+Promote Admin:
+   the dfdfd, GM Rank 10 Promote Admined {NPC} Goten, GM Rank 0.
+   Reason: Number Level: 5 (If Given)
+   Other Information: Rank: High Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} Goten - Type: /mob/NPC/Goten
+   Date/Time: 07:57:20 06/16/2008
+
+Boot:
+   the dfdfd, GM Rank 10 Booted the dfdfd, GM Rank 10.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:57:36 06/16/2008
+
+Ban:
+   the dfdfd, GM Rank 10 Baned the dfdfd, GM Rank 10.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:57:36 06/16/2008
+
+Level UP:
+   the dfdfd, GM Rank 10 Level UPed the dfdfd, GM Rank 10.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the dfdfd (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:02:56 06/16/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:37:52 06/16/2008
+
+Edit Powerlevel:
+   All Star, GM Rank 1000 Edit Powerleveled All Star, GM Rank 1000.
+   Reason: Variable: Powerlevel_max (If Given)
+   Other Information: Amount: 2e+008 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:38:40 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_1 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:40:48 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_2 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:41:04 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_3 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:41:04 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_4 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:41:36 06/16/2008
+
+Edit Earth Wish:
+   the fgf, GM Rank 1000 Edit Earth Wished the fgf, GM Rank 1000.
+   Reason: Variable: Wish (If Given)
+   Other Information: Amount: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:47:28 06/16/2008
+
+Edit Powerlevel:
+   the fgf, GM Rank 1000 Edit Powerleveled the fgf, GM Rank 1000.
+   Reason: Variable: Powerlevel_max (If Given)
+   Other Information: Amount: 1.2e+011 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:47:28 06/16/2008
+
+Remove Admin:
+   All Star, GM Rank 1000 Remove Admined All Star, GM Rank 1000.
+   Reason: Number Level: 1 (If Given)
+   Other Information: Rank: Trial Enforcer (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:52:00 06/21/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:35:12 07/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:09:20 08/05/2008
+
+Level UP:
+   the hgh, GM Rank 1000 Level UPed the hgh, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the hgh (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:14:40 08/05/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 15:13:20 08/06/2008
+
+Create:
+	   Theonethegame Created a Mobile, /mob/Member
+Delete:
+   Theonethegame, GM Rank 1000 Deleteed Theonethegame, GM Rank 1000.
+   Reason: /mob/Member  (If Given)
+   Other Information: Member (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:01:52 09/27/2008
+
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Mobile, /mob/learn/Namek
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Delete:
+   Theonethegame, GM Rank 1000 Deleteed Theonethegame, GM Rank 1000.
+   Reason: /mob/learn/Namek  (If Given)
+   Other Information: Namek (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:02:56 09/27/2008
+
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:57:36 09/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:58:08 09/29/2008
+
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Boot:
+   Theonethegame, GM Rank 1000 Booted Theonethegame, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:03:44 10/13/2008
+
+Level UP:
+   the xcv, GM Rank 1000 Level UPed the xcv, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the xcv (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:48:32 10/13/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:28:16 10/13/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 18:52:00 10/13/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: absorb_kill (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 18:52:32 10/13/2008
+
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Repop:
+   the ghg, GM Rank 1000 Repoped the ghg, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:47:28 10/17/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:41:04 10/17/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Demon (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:48:00 10/17/2008
+
+Repop:
+   Theonethegame, GM Rank 1000 Repoped Theonethegame, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:30:08 10/17/2008
+
+World Mute:
+   the ghg, GM Rank 1000 World Muteed the ghg, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:55:44 10/18/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:42:08 10/23/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:45:36 10/24/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:45:36 10/24/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:09:20 10/24/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:56:00 10/25/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:34:40 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:34:40 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:35:12 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:35:12 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:35:12 10/26/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:08 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:40 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:40 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:12 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:12 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:44 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Dragon (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:04 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Cooler (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:59:12 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:59:44 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Legend (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:02:56 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Sayian (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:03:28 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Sayain (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:04:32 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:40 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:12 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:36 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:36 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:36 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:04 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:04 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:04 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:36 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 200 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:47:44 10/30/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:48:16 10/30/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:35:44 10/30/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /mob/Monster/Brolly  (If Given)
+   Other Information: {NPC} Brolly (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:40:32 10/30/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /mob/Monster/Brolly  (If Given)
+   Other Information: {NPC} Brolly (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:40:32 10/30/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:01:36 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:01:36 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: {NPC} Cooler (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:02:40 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: {NPC} Cooler (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:02:40 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:02:40 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:03:12 10/31/2008
+
+UnMute:
+   Theonethegame, GM Rank 10000 UnMuteed Theonethegame, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:03:12 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:03:44 10/31/2008
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Android (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:00:00 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:12 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:44 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: {NPC} Race Helper (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:44 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:44 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:04:16 10/31/2008
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Android (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:05:52 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:16 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:48 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:48 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:48 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:49:20 11/01/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:30:56 11/03/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:30:56 11/03/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:31:28 11/03/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:31:28 11/03/2008
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Goten, GM Rank 0.
+   Reason: Number Level: 1.2 (If Given)
+   Other Information: Rank:  (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} Goten - Type: /mob/NPC/Goten
+   Date/Time: 02:05:20 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} SS2 Teen Gohan, GM Rank 0.
+   Reason: Number Level: 10 (If Given)
+   Other Information: Rank: General Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} SS2 Teen Gohan - Type: /mob/NPC/Teen_Gohan
+   Date/Time: 03:15:12 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} SS2 Teen Gohan, GM Rank 0.
+   Reason: Number Level: 6 (If Given)
+   Other Information: Rank: Major Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} SS2 Teen Gohan - Type: /mob/NPC/Teen_Gohan
+   Date/Time: 03:52:32 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} All Star Guild Recruiter, GM Rank 0.
+   Reason: Number Level: 7 (If Given)
+   Other Information: Rank: Commander Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} All Star Guild Recruiter - Type: /mob/NPC/AllStar_Guild_Recruiter
+   Date/Time: 03:52:32 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Race Helper, GM Rank 0.
+   Reason: Number Level: 8 (If Given)
+   Other Information: Rank: Colonel Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} Race Helper - Type: /mob/NPC/Race_Help
+   Date/Time: 03:53:04 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Yamcha, GM Rank 0.
+   Reason: Number Level: 9 (If Given)
+   Other Information: Rank: Brigadier Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} Yamcha - Type: /mob/NPC/Yamcha
+   Date/Time: 03:53:04 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Kid Buu, GM Rank 0.
+   Reason: Number Level: 10 (If Given)
+   Other Information: Rank: General Council (If fn)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Name: {NPC} Kid Buu - Type: /mob/NPC/Kid_Buu
+   Date/Time: 03:53:36 01/19/2009
+
+Edit:
+   the fgdfg, GM Rank 10000 Edited the fgdfg, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:17:20 02/21/2009
+
+Repop:
+   All Star, GM Rank 10000 Repoped All Star, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 19:18:56 02/21/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Dragon_Fist  (If Given)
+   Other Information: Dragon Fist (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 22:50:40 02/28/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Cannon  (If Given)
+   Other Information: Cannon (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 22:50:40 02/28/2009
+
+Edit:
+   Theonethegame, GM Rank 10000 Edited Theonethegame, GM Rank 10000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Namek (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:48:48 03/08/2009
+
+Edit:
+   Theonethegame, GM Rank 10000 Edited Theonethegame, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 13 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:29:36 03/09/2009
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /obj/Dragonballs/Earth_Dragonball_2  (If Given)
+   Other Information: Earth Dragonball 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:40:16 03/11/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 25921 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:37:20 03/13/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:17:04 03/14/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:48:00 03/15/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: vegeta_wins (If Given)
+   Other Information: Typesof: 3 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:28:00 03/20/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 5 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:28:32 03/20/2009
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /obj/Blast2/Soul_Punisher  (If Given)
+   Other Information: Soul Punisher (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:01:04 03/21/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 12 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:41:36 03/22/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Ki_Blast  (If Given)
+   Other Information: Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:45:52 03/22/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Ki_Blast  (If Given)
+   Other Information: Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:45:52 03/22/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Ki_Blast  (If Given)
+   Other Information: Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:46:24 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: nappa_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:33:52 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: vegeta_wins (If Given)
+   Other Information: Typesof: 29 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:54:40 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 32 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:54:40 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:22:24 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: nappa_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:45:52 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: nappa_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:45:52 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kid_buu_wins (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 00:33:52 03/26/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 23 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:18:56 03/26/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kills (If Given)
+   Other Information: Typesof: 12 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 14:28:32 03/26/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kills (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 15:33:23 03/26/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kills (If Given)
+   Other Information: Typesof: 10007 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:36:16 03/27/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: deaths (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:35:12 03/27/2009
+
+Edit:
+   Theonethegame, GM Rank 10000 Edited Theonethegame, GM Rank 10000.
+   Reason: Variable: deaths (If Given)
+   Other Information: Typesof: 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:44:16 03/28/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: karma_rating (If Given)
+   Other Information: Typesof: 4 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:47:12 03/28/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: karma (If Given)
+   Other Information: Typesof: Good (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 16:20:32 03/28/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 3 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 14:58:56 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 3 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:26:08 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:27:12 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:28:16 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Hrs (If Given)
+   Other Information: Typesof: 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:28:16 03/29/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Chaos_Demon_Ki_Blast  (If Given)
+   Other Information: Chaos Demon Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:35:12 03/31/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 00:44:12 04/05/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: arena_wins (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 00:48:03 04/05/2009
+
+World Mute:
+   NameLess, GM Rank 10000 World Muteed NameLess, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:01:04 04/10/2009
+
+Mute:
+   All Star, GM Rank 10000 Muteed All Star, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:59:44 04/10/2009
+
+Mute:
+   All Star, GM Rank 10000 Muteed All Star, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:59:44 04/10/2009
+
+Edit:
+   NameLess, GM Rank 10000 Edited NameLess, GM Rank 10000.
+   Reason: Variable: icon (If Given)
+   Other Information: Typesof: <IMG CLASS=icon SRC=[0xc000134]> (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:31:28 04/12/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: eviltest (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:10:24 04/14/2009
+
+Edit:
+   All Star, GM Rank 100000 Edited All Star, GM Rank 100000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Half Saiyan (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 11:21:52 04/25/2009
+
+Level UP:
+   All Star, GM Rank 100000 Level UPed All Star, GM Rank 100000.
+   Reason: How Many levels: 0 (If Given)
+   Other Information: Who: {NPC} SS2 Teen Gohan (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:50:40 05/03/2009
+

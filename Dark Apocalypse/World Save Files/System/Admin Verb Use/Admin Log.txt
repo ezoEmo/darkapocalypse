@@ -1,0 +1,2083 @@
+World Opened. 18:09:58 06/02/2008 Host Address: 192.168.1.100.
+World Closed. 18:12:00 06/02/2008 Host Address: 192.168.1.100.
+World Closed. 03:21:39 06/05/2008 Host Address: 192.168.1.100.
+World Opened. 03:34:27 06/05/2008 Host Address: 192.168.1.100.
+Level UP:
+   the jkj, GM Rank 5 Level UPed the jkj, GM Rank 5.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the jkj (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:34:56 06/05/2008
+
+World Closed. 03:36:16 06/05/2008 Host Address: 192.168.1.100.
+World Opened. 07:41:29 06/07/2008 Host Address: 192.168.1.100.
+World Closed. 11:42:40 06/07/2008 Host Address: 192.168.1.100.
+World Opened. 23:28:16 06/15/2008 Host Address: 192.168.1.100.
+World Closed. 23:33:04 06/15/2008 Host Address: 192.168.1.100.
+World Opened. 00:12:38 06/16/2008 Host Address: 192.168.1.100.
+Level UP:
+   the fgf, GM Rank 5 Level UPed the fgf, GM Rank 5.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the fgf (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 00:13:36 06/16/2008
+
+World Closed. 00:14:40 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 00:29:42 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 00:30:08 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 00:30:33 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 00:30:56 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 00:40:48 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 00:40:48 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 00:43:28 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 00:43:28 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 00:51:53 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 03:28:48 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 03:42:59 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 03:44:16 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:08:44 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:09:36 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:09:36 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:09:36 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:10:01 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:10:56 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:12:09 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:12:32 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:13:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:14:24 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:14:17 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:16:32 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:32:12 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:35:44 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:52:16 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:53:36 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:53:32 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:53:52 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 05:53:52 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 05:54:24 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 07:55:34 06/16/2008 Host Address: 192.168.1.100.
+Promote Admin:
+   the dfdfd, GM Rank 10 Promote Admined {NPC} Goten, GM Rank 0.
+   Reason: Number Level: 5 (If Given)
+   Other Information: Rank: High Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 07:57:20 06/16/2008
+
+Attempted Boot:
+   the dfdfd, GM Rank 10 tried to Boot the dfdfd, GM Rank 10.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:57:36 06/16/2008
+
+Attempted Ban:
+   the dfdfd, GM Rank 10 tried to Ban the dfdfd, GM Rank 10.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:57:36 06/16/2008
+
+Level UP:
+   the dfdfd, GM Rank 10 Level UPed the dfdfd, GM Rank 10.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the dfdfd (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:02:56 06/16/2008
+
+World Closed. 08:11:28 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 08:26:43 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 08:27:12 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 09:29:52 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 09:31:12 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 10:29:36 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 10:51:28 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 11:55:47 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 11:57:52 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 13:36:54 06/16/2008 Host Address: 192.168.1.100.
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:37:52 06/16/2008
+
+Edit Powerlevel:
+   All Star, GM Rank 1000 Edit Powerleveled All Star, GM Rank 1000.
+   Reason: Variable: Powerlevel_max (If Given)
+   Other Information: Amount: 2e+008 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:38:40 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_1 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:40:48 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_2 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:41:04 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_3 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:41:04 06/16/2008
+
+Edit:
+   All Star, GM Rank 1000 Edited All Star, GM Rank 1000.
+   Reason: Variable: form_4 (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:41:36 06/16/2008
+
+World Closed. 13:45:04 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 13:45:26 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 13:46:40 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 13:46:43 06/16/2008 Host Address: 192.168.1.100.
+Edit Earth Wish:
+   the fgf, GM Rank 1000 Edit Earth Wished the fgf, GM Rank 1000.
+   Reason: Variable: Wish (If Given)
+   Other Information: Amount: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:47:28 06/16/2008
+
+Edit Powerlevel:
+   the fgf, GM Rank 1000 Edit Powerleveled the fgf, GM Rank 1000.
+   Reason: Variable: Powerlevel_max (If Given)
+   Other Information: Amount: 1.2e+011 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:47:28 06/16/2008
+
+World Closed. 13:48:32 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 13:48:51 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 14:20:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 14:20:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 14:22:56 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 14:49:26 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 14:52:48 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 14:55:24 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 14:57:36 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 15:13:20 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 15:29:32 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 15:34:40 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 15:34:40 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 15:39:21 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 15:42:46 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 15:44:54 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 15:45:20 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 15:47:53 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 15:47:53 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 15:48:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 15:48:00 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 21:53:32 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 21:54:24 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 21:54:24 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 21:54:24 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 21:56:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 21:56:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 21:56:00 06/16/2008 Host Address: 192.168.1.100.
+World Closed. 22:10:08 06/16/2008 Host Address: 192.168.1.100.
+World Opened. 01:52:28 06/20/2008 Host Address: 192.168.1.100.
+World Closed. 02:04:48 06/20/2008 Host Address: 192.168.1.100.
+World Opened. 03:48:57 06/21/2008 Host Address: 192.168.1.100.
+Attempted Remove Admin:
+   All Star, GM Rank 1000 tried to Remove Admin All Star, GM Rank 1000.
+   Reason: Number Level: 1 (If Given)
+   Other Information: Rank: Trial Enforcer (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:52:00 06/21/2008
+
+World Closed. 04:05:04 06/21/2008 Host Address: 192.168.1.100.
+World Opened. 00:10:04 06/23/2008 Host Address: 192.168.1.100.
+World Closed. 00:10:56 06/23/2008 Host Address: 192.168.1.100.
+World Opened. 01:29:52 06/24/2008 Host Address: 192.168.1.100.
+World Closed. 01:30:24 06/24/2008 Host Address: 192.168.1.100.
+World Opened. 01:30:43 06/24/2008 Host Address: 192.168.1.100.
+World Closed. 01:32:00 06/24/2008 Host Address: 192.168.1.100.
+World Opened. 20:44:00 07/20/2008 Host Address: 192.168.1.16.
+World Closed. 20:50:24 07/20/2008 Host Address: 192.168.1.16.
+World Opened. 07:34:14 07/27/2008 Host Address: 192.168.1.12.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:35:12 07/27/2008
+
+World Closed. 07:36:16 07/27/2008 Host Address: 192.168.1.12.
+World Opened. 06:08:28 08/05/2008 Host Address: 192.168.1.25.
+World Closed. 06:08:48 08/05/2008 Host Address: 192.168.1.25.
+World Opened. 06:08:54 08/05/2008 Host Address: 192.168.1.25.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:09:20 08/05/2008
+
+World Closed. 06:13:36 08/05/2008 Host Address: 192.168.1.25.
+World Opened. 06:14:01 08/05/2008 Host Address: 192.168.1.25.
+Level UP:
+   the hgh, GM Rank 1000 Level UPed the hgh, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the hgh (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:14:40 08/05/2008
+
+World Closed. 06:15:44 08/05/2008 Host Address: 192.168.1.25.
+World Opened. 00:56:35 08/06/2008 Host Address: 192.168.1.27.
+World Opened. 00:56:35 08/06/2008 Host Address: 192.168.1.27.
+World Closed. 00:56:48 08/06/2008 Host Address: 192.168.1.27.
+World Closed. 00:57:52 08/06/2008 Host Address: 192.168.1.27.
+World Opened. 00:58:17 08/06/2008 Host Address: 192.168.1.27.
+World Closed. 01:07:28 08/06/2008 Host Address: 192.168.1.27.
+World Opened. 15:03:56 08/06/2008 Host Address: 192.168.1.101.
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 15:13:20 08/06/2008
+
+World Closed. 17:02:08 08/06/2008 Host Address: 192.168.1.101.
+World Opened. 02:30:27 08/18/2008 Host Address: 192.168.1.49.
+World Closed. 02:31:12 08/18/2008 Host Address: 192.168.1.49.
+World Opened. 02:58:36 08/18/2008 Host Address: 192.168.1.49.
+World Closed. 03:03:44 08/18/2008 Host Address: 192.168.1.49.
+World Opened. 13:19:50 08/20/2008 Host Address: 192.168.1.54.
+World Opened. 13:32:12 08/20/2008 Host Address: 192.168.1.54.
+World Closed. 13:34:40 08/20/2008 Host Address: 192.168.1.54.
+World Closed. 13:42:40 08/20/2008 Host Address: 192.168.1.54.
+World Opened. 18:21:04 08/25/2008 Host Address: 172.17.22.38.
+World Closed. 18:21:36 08/25/2008 Host Address: 172.17.22.38.
+World Opened. 21:04:03 09/07/2008 Host Address: 192.168.1.3.
+World Closed. 21:04:48 09/07/2008 Host Address: 192.168.1.3.
+World Opened. 21:05:20 09/07/2008 Host Address: 192.168.1.3.
+World Closed. 21:05:52 09/07/2008 Host Address: 192.168.1.3.
+World Opened. 21:06:11 09/07/2008 Host Address: 192.168.1.3.
+World Closed. 21:06:56 09/07/2008 Host Address: 192.168.1.3.
+World Opened. 21:31:21 09/07/2008 Host Address: 192.168.1.3.
+World Closed. 21:32:00 09/07/2008 Host Address: 192.168.1.3.
+World Opened. 21:33:55 09/08/2008 Host Address: 192.168.1.5.
+World Closed. 21:36:48 09/08/2008 Host Address: 192.168.1.5.
+World Opened. 01:31:34 09/12/2008 Host Address: 192.168.1.9.
+World Closed. 01:35:44 09/12/2008 Host Address: 192.168.1.9.
+World Opened. 16:34:24 09/17/2008 Host Address: 172.17.22.51.
+World Closed. 16:38:40 09/17/2008 Host Address: 172.17.22.51.
+World Opened. 16:38:40 09/17/2008 Host Address: 172.17.22.51.
+World Closed. 16:41:20 09/17/2008 Host Address: 172.17.22.51.
+World Opened. 16:41:20 09/17/2008 Host Address: 172.17.22.51.
+World Closed. 16:46:40 09/17/2008 Host Address: 172.17.22.51.
+World Opened. 15:04:48 09/23/2008 Host Address: 172.17.22.45.
+World Closed. 15:06:56 09/23/2008 Host Address: 172.17.22.45.
+World Opened. 16:11:21 09/23/2008 Host Address: 172.17.22.45.
+World Closed. 16:13:04 09/23/2008 Host Address: 172.17.22.45.
+World Opened. 01:02:33 09/24/2008 Host Address: 192.168.1.40.
+World Closed. 01:03:12 09/24/2008 Host Address: 192.168.1.40.
+World Opened. 01:17:04 09/24/2008 Host Address: 192.168.1.40.
+World Closed. 01:18:08 09/24/2008 Host Address: 192.168.1.40.
+World Opened. 01:29:00 09/24/2008 Host Address: 192.168.1.40.
+World Closed. 01:29:20 09/24/2008 Host Address: 192.168.1.40.
+World Opened. 01:29:26 09/24/2008 Host Address: 192.168.1.40.
+World Closed. 01:32:00 09/24/2008 Host Address: 192.168.1.40.
+World Opened. 12:32:28 09/26/2008 Host Address: 192.168.1.44.
+World Closed. 12:34:24 09/26/2008 Host Address: 192.168.1.44.
+World Opened. 13:06:36 09/26/2008 Host Address: 192.168.1.44.
+World Closed. 13:08:32 09/26/2008 Host Address: 192.168.1.44.
+World Opened. 04:00:28 09/27/2008 Host Address: 192.168.1.44.
+Create:
+	   Theonethegame Created a Mobile, /mob/Member
+Delete:
+   Theonethegame, GM Rank 1000 Deleteed Theonethegame, GM Rank 1000.
+   Reason: /mob/Member  (If Given)
+   Other Information: Member (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:01:52 09/27/2008
+
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Mobile, /mob/learn/Namek
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Delete:
+   Theonethegame, GM Rank 1000 Deleteed Theonethegame, GM Rank 1000.
+   Reason: /mob/learn/Namek  (If Given)
+   Other Information: Namek (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:02:56 09/27/2008
+
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+World Closed. 04:09:20 09/27/2008 Host Address: 192.168.1.44.
+World Opened. 00:36:32 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 00:37:04 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 01:00:00 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 01:03:44 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 01:26:27 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 01:27:44 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 02:15:05 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 02:15:44 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 02:30:01 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 02:37:04 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 02:51:47 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 02:52:32 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 03:05:52 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 03:07:28 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 15:20:35 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 15:23:28 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 15:57:16 09/29/2008 Host Address: 192.168.1.48.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:57:36 09/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:58:08 09/29/2008
+
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   Theonethegame Created a Object, /obj/Equipment/Micro_Chip
+World Closed. 16:02:56 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 16:32:16 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 16:32:48 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 17:53:20 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 17:55:28 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 18:07:50 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 18:08:16 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 18:30:01 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 18:34:24 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 18:49:13 09/29/2008 Host Address: 192.168.1.48.
+World Closed. 18:50:24 09/29/2008 Host Address: 192.168.1.48.
+World Opened. 15:31:15 09/30/2008 Host Address: 192.168.1.49.
+World Closed. 15:35:12 09/30/2008 Host Address: 192.168.1.49.
+World Opened. 00:31:24 10/01/2008 Host Address: 192.168.1.49.
+World Closed. 00:33:20 10/01/2008 Host Address: 192.168.1.49.
+World Opened. 02:13:48 10/01/2008 Host Address: 192.168.1.49.
+World Closed. 02:18:24 10/01/2008 Host Address: 192.168.1.49.
+World Opened. 00:54:01 10/02/2008 Host Address: 192.168.1.51.
+World Closed. 00:55:12 10/02/2008 Host Address: 192.168.1.51.
+World Opened. 00:58:17 10/02/2008 Host Address: 192.168.1.51.
+World Closed. 01:03:44 10/02/2008 Host Address: 192.168.1.51.
+World Opened. 02:36:51 10/02/2008 Host Address: 192.168.1.51.
+World Closed. 02:39:12 10/02/2008 Host Address: 192.168.1.51.
+World Opened. 16:55:18 10/02/2008 Host Address: 172.17.22.48.
+World Closed. 16:58:24 10/02/2008 Host Address: 172.17.22.48.
+World Opened. 03:27:37 10/03/2008 Host Address: 192.168.1.54.
+World Closed. 03:31:28 10/03/2008 Host Address: 192.168.1.54.
+World Opened. 03:47:15 10/04/2008 Host Address: 192.168.1.61.
+World Closed. 03:50:08 10/04/2008 Host Address: 192.168.1.61.
+World Opened. 03:50:14 10/04/2008 Host Address: 192.168.1.61.
+World Closed. 03:50:40 10/04/2008 Host Address: 192.168.1.61.
+World Opened. 22:47:18 10/05/2008 Host Address: 192.168.1.3.
+World Closed. 22:51:28 10/05/2008 Host Address: 192.168.1.3.
+World Opened. 23:34:40 10/05/2008 Host Address: 192.168.1.3.
+World Closed. 23:36:16 10/05/2008 Host Address: 192.168.1.3.
+World Opened. 23:51:44 10/05/2008 Host Address: 192.168.1.3.
+World Closed. 00:01:52 10/06/2008 Host Address: 192.168.1.3.
+World Opened. 20:19:40 10/06/2008 Host Address: 192.168.1.5.
+World Closed. 20:28:32 10/06/2008 Host Address: 192.168.1.5.
+World Opened. 20:38:01 10/06/2008 Host Address: 192.168.1.5.
+World Closed. 20:53:04 10/06/2008 Host Address: 192.168.1.5.
+World Opened. 22:41:20 10/06/2008 Host Address: 192.168.1.5.
+World Closed. 22:43:28 10/06/2008 Host Address: 192.168.1.5.
+World Opened. 00:55:44 10/07/2008 Host Address: 192.168.1.5.
+World Closed. 00:56:16 10/07/2008 Host Address: 192.168.1.5.
+World Opened. 04:03:53 10/07/2008 Host Address: 192.168.1.5.
+World Closed. 04:10:24 10/07/2008 Host Address: 192.168.1.5.
+World Opened. 15:15:53 10/07/2008 Host Address: 172.17.22.73.
+World Closed. 15:34:40 10/07/2008 Host Address: 172.17.22.73.
+World Opened. 16:04:32 10/07/2008 Host Address: 172.17.22.73.
+World Closed. 16:06:40 10/07/2008 Host Address: 172.17.22.73.
+World Opened. 16:54:27 10/07/2008 Host Address: 172.17.22.73.
+World Closed. 16:57:20 10/07/2008 Host Address: 172.17.22.73.
+World Opened. 02:55:37 10/09/2008 Host Address: 192.168.1.5.
+World Closed. 03:04:48 10/09/2008 Host Address: 192.168.1.5.
+World Opened. 02:40:16 10/10/2008 Host Address: 192.168.1.6.
+World Closed. 02:40:48 10/10/2008 Host Address: 192.168.1.6.
+World Opened. 02:59:02 10/10/2008 Host Address: 192.168.1.6.
+World Closed. 02:59:28 10/10/2008 Host Address: 192.168.1.6.
+World Opened. 03:25:55 10/10/2008 Host Address: 192.168.1.6.
+World Closed. 03:32:00 10/10/2008 Host Address: 192.168.1.6.
+World Opened. 03:56:38 10/10/2008 Host Address: 192.168.1.6.
+Edit:
+   Archfiend Master, GM Rank 1000 Edited Archfiend Master, GM Rank 1000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 3513 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 
+   Target Information: Key: Archfiend Master - IP Address: 
+   Date/Time: 04:02:24 10/10/2008
+
+World Closed. 04:02:56 10/10/2008 Host Address: 192.168.1.6.
+World Opened. 06:21:16 10/10/2008 Host Address: 192.168.1.6.
+World Closed. 06:22:40 10/10/2008 Host Address: 192.168.1.6.
+World Opened. 06:22:40 10/10/2008 Host Address: 192.168.1.6.
+World Closed. 06:24:48 10/10/2008 Host Address: 192.168.1.6.
+World Opened. 01:36:41 10/12/2008 Host Address: 192.168.1.15.
+World Opened. 01:36:41 10/12/2008 Host Address: 192.168.1.15.
+World Closed. 01:36:48 10/12/2008 Host Address: 192.168.1.15.
+World Closed. 01:38:56 10/12/2008 Host Address: 192.168.1.15.
+World Opened. 01:39:28 10/12/2008 Host Address: 192.168.1.15.
+World Closed. 01:39:28 10/12/2008 Host Address: 192.168.1.15.
+World Opened. 01:39:28 10/12/2008 Host Address: 192.168.1.15.
+World Closed. 02:01:20 10/12/2008 Host Address: 192.168.1.15.
+World Opened. 19:49:48 10/12/2008 Host Address: 192.168.1.17.
+World Closed. 19:58:08 10/12/2008 Host Address: 192.168.1.17.
+World Opened. 22:37:29 10/12/2008 Host Address: 192.168.1.17.
+World Closed. 22:39:44 10/12/2008 Host Address: 192.168.1.17.
+World Opened. 22:57:07 10/12/2008 Host Address: 192.168.1.17.
+World Closed. 23:08:00 10/12/2008 Host Address: 192.168.1.17.
+World Opened. 00:45:55 10/13/2008 Host Address: 192.168.1.17.
+World Closed. 00:47:12 10/13/2008 Host Address: 192.168.1.17.
+World Opened. 00:47:12 10/13/2008 Host Address: 192.168.1.17.
+Attempted Boot:
+   Theonethegame, GM Rank 1000 tried to Boot Theonethegame, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:03:44 10/13/2008
+
+World Closed. 01:11:44 10/13/2008 Host Address: 192.168.1.17.
+World Opened. 03:48:06 10/13/2008 Host Address: 192.168.1.17.
+Level UP:
+   the xcv, GM Rank 1000 Level UPed the xcv, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: the xcv (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:48:32 10/13/2008
+
+World Closed. 03:50:40 10/13/2008 Host Address: 192.168.1.17.
+World Opened. 13:57:23 10/13/2008 Host Address: 192.168.1.17.
+World Closed. 14:01:52 10/13/2008 Host Address: 192.168.1.17.
+World Opened. 15:27:50 10/13/2008 Host Address: 192.168.1.17.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:28:16 10/13/2008
+
+World Closed. 15:29:20 10/13/2008 Host Address: 192.168.1.17.
+World Opened. 18:51:47 10/13/2008 Host Address: 192.168.1.17.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 18:52:00 10/13/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: absorb_kill (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 18:52:32 10/13/2008
+
+World Closed. 18:58:24 10/13/2008 Host Address: 192.168.1.17.
+World Opened. 02:13:23 10/14/2008 Host Address: 192.168.1.17.
+World Closed. 02:33:20 10/14/2008 Host Address: 192.168.1.17.
+World Opened. 03:54:56 10/14/2008 Host Address: 192.168.1.17.
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+Create:
+	   All Star Created a Object, /obj/Equipment/Micro_Chip
+World Closed. 04:00:16 10/14/2008 Host Address: 192.168.1.17.
+World Opened. 21:04:28 10/14/2008 Host Address: 192.168.1.18.
+World Closed. 21:13:20 10/14/2008 Host Address: 192.168.1.18.
+World Opened. 02:18:04 10/16/2008 Host Address: 192.168.1.21.
+World Closed. 02:36:32 10/16/2008 Host Address: 192.168.1.21.
+World Opened. 03:48:06 10/16/2008 Host Address: 192.168.1.21.
+World Closed. 03:56:00 10/16/2008 Host Address: 192.168.1.21.
+World Opened. 04:17:07 10/16/2008 Host Address: 192.168.1.21.
+World Closed. 04:22:08 10/16/2008 Host Address: 192.168.1.21.
+World Opened. 16:27:34 10/16/2008 Host Address: 192.168.1.23.
+World Closed. 16:37:36 10/16/2008 Host Address: 192.168.1.23.
+World Opened. 01:40:57 10/17/2008 Host Address: 192.168.1.23.
+Repop:
+   the ghg, GM Rank 1000 Repoped the ghg, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:47:28 10/17/2008
+
+World Closed. 01:54:24 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 02:21:29 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 02:21:55 10/17/2008 Host Address: 192.168.1.23.
+World Closed. 02:22:40 10/17/2008 Host Address: 192.168.1.23.
+World Closed. 02:23:12 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 03:39:34 10/17/2008 Host Address: 192.168.1.23.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:41:04 10/17/2008
+
+World Closed. 03:41:36 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 03:41:42 10/17/2008 Host Address: 192.168.1.23.
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Demon (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:48:00 10/17/2008
+
+World Closed. 03:49:04 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 04:58:56 10/17/2008 Host Address: 192.168.1.23.
+World Closed. 04:58:56 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 04:59:21 10/17/2008 Host Address: 192.168.1.23.
+World Closed. 05:02:08 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 06:24:41 10/17/2008 Host Address: 192.168.1.23.
+World Closed. 06:26:24 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 06:26:49 10/17/2008 Host Address: 192.168.1.23.
+Repop:
+   Theonethegame, GM Rank 1000 Repoped Theonethegame, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:30:08 10/17/2008
+
+World Closed. 06:30:40 10/17/2008 Host Address: 192.168.1.23.
+World Opened. 16:00:16 10/17/2008 Host Address: 192.168.1.25.
+World Closed. 16:01:20 10/17/2008 Host Address: 192.168.1.25.
+World Opened. 04:52:57 10/18/2008 Host Address: 192.168.1.29.
+World Mute:
+   the ghg, GM Rank 1000 World Muteed the ghg, GM Rank 1000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:55:44 10/18/2008
+
+World Closed. 04:59:28 10/18/2008 Host Address: 192.168.1.29.
+World Opened. 05:33:55 10/18/2008 Host Address: 192.168.1.29.
+World Closed. 05:34:08 10/18/2008 Host Address: 192.168.1.29.
+World Opened. 05:34:20 10/18/2008 Host Address: 192.168.1.29.
+World Closed. 05:35:12 10/18/2008 Host Address: 192.168.1.29.
+World Opened. 06:11:02 10/18/2008 Host Address: 192.168.1.29.
+World Closed. 06:15:12 10/18/2008 Host Address: 192.168.1.29.
+World Opened. 07:22:43 10/18/2008 Host Address: 192.168.1.29.
+World Closed. 07:26:40 10/18/2008 Host Address: 192.168.1.29.
+World Opened. 07:42:20 10/19/2008 Host Address: 192.168.1.35.
+World Closed. 07:48:00 10/19/2008 Host Address: 192.168.1.35.
+World Opened. 08:13:29 10/19/2008 Host Address: 192.168.1.35.
+World Closed. 08:20:00 10/19/2008 Host Address: 192.168.1.35.
+World Opened. 05:12:35 10/20/2008 Host Address: 192.168.1.36.
+World Closed. 05:30:56 10/20/2008 Host Address: 192.168.1.36.
+World Opened. 13:49:16 10/21/2008 Host Address: 192.168.1.2.
+World Opened. 13:49:42 10/21/2008 Host Address: 192.168.1.2.
+World Closed. 13:51:12 10/21/2008 Host Address: 192.168.1.2.
+World Closed. 13:51:12 10/21/2008 Host Address: 192.168.1.2.
+World Opened. 15:06:56 10/21/2008 Host Address: 192.168.1.2.
+World Closed. 15:15:28 10/21/2008 Host Address: 192.168.1.2.
+World Opened. 03:48:06 10/22/2008 Host Address: 192.168.1.44.
+World Closed. 03:51:44 10/22/2008 Host Address: 192.168.1.44.
+World Opened. 03:41:16 10/23/2008 Host Address: 192.168.1.45.
+World Closed. 03:47:28 10/23/2008 Host Address: 192.168.1.45.
+World Opened. 05:37:20 10/23/2008 Host Address: 192.168.1.45.
+World Closed. 05:39:28 10/23/2008 Host Address: 192.168.1.45.
+World Opened. 13:33:55 10/23/2008 Host Address: 172.17.22.54.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 13:42:08 10/23/2008
+
+World Closed. 13:44:16 10/23/2008 Host Address: 172.17.22.54.
+World Opened. 16:43:21 10/23/2008 Host Address: 172.17.22.54.
+World Closed. 16:44:00 10/23/2008 Host Address: 172.17.22.54.
+World Opened. 16:44:12 10/23/2008 Host Address: 172.17.22.54.
+World Closed. 16:53:36 10/23/2008 Host Address: 172.17.22.54.
+World Opened. 02:44:06 10/24/2008 Host Address: 192.168.1.47.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:45:36 10/24/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:45:36 10/24/2008
+
+World Closed. 02:53:04 10/24/2008 Host Address: 192.168.1.47.
+World Opened. 08:06:40 10/24/2008 Host Address: 192.168.1.47.
+World Opened. 08:06:40 10/24/2008 Host Address: 192.168.1.47.
+World Closed. 08:07:12 10/24/2008 Host Address: 192.168.1.47.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:09:20 10/24/2008
+
+World Closed. 08:09:52 10/24/2008 Host Address: 192.168.1.47.
+World Opened. 08:23:18 10/24/2008 Host Address: 192.168.1.47.
+World Closed. 08:26:24 10/24/2008 Host Address: 192.168.1.47.
+World Opened. 05:33:04 10/25/2008 Host Address: 192.168.1.50.
+World Closed. 05:33:36 10/25/2008 Host Address: 192.168.1.50.
+World Opened. 05:54:24 10/25/2008 Host Address: 192.168.1.50.
+World Closed. 05:54:56 10/25/2008 Host Address: 192.168.1.50.
+World Opened. 05:55:15 10/25/2008 Host Address: 192.168.1.50.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:56:00 10/25/2008
+
+World Closed. 05:56:32 10/25/2008 Host Address: 192.168.1.50.
+World Opened. 23:08:12 10/26/2008 Host Address: 192.168.1.52.
+World Closed. 23:09:04 10/26/2008 Host Address: 192.168.1.52.
+World Opened. 23:34:14 10/26/2008 Host Address: 192.168.1.52.
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:34:40 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:34:40 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:35:12 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:35:12 10/26/2008
+
+Level UP:
+   All Star, GM Rank 1000 Level UPed All Star, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 23:35:12 10/26/2008
+
+World Closed. 23:38:56 10/26/2008 Host Address: 192.168.1.52.
+World Opened. 03:09:16 10/27/2008 Host Address: 192.168.1.52.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:08 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:40 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:40 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:12 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:12 10/27/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:44 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Dragon (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:04 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Cooler (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:59:12 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:59:44 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Legend (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:02:56 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Sayian (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:03:28 10/27/2008
+
+Edit:
+   Theonethegame, GM Rank 1000 Edited Theonethegame, GM Rank 1000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Sayain (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:04:32 10/27/2008
+
+World Closed. 04:09:20 10/27/2008 Host Address: 192.168.1.52.
+World Opened. 05:10:52 10/27/2008 Host Address: 192.168.1.52.
+World Closed. 05:14:24 10/27/2008 Host Address: 192.168.1.52.
+World Opened. 22:00:22 10/27/2008 Host Address: 192.168.1.54.
+World Closed. 22:01:52 10/27/2008 Host Address: 192.168.1.54.
+World Opened. 03:09:42 10/28/2008 Host Address: 192.168.1.54.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:10:40 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:11:12 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:36 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:36 10/28/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:17:36 10/28/2008
+
+World Closed. 03:20:16 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 06:30:40 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 06:52:00 10/28/2008 Host Address: 192.168.1.54.
+World Closed. 06:55:44 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 07:27:50 10/28/2008 Host Address: 192.168.1.54.
+World Closed. 07:32:00 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 07:32:57 10/28/2008 Host Address: 192.168.1.54.
+World Closed. 07:48:32 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 08:00:16 10/28/2008 Host Address: 192.168.1.54.
+World Closed. 08:01:52 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 08:18:36 10/28/2008 Host Address: 192.168.1.54.
+World Closed. 15:28:16 10/28/2008 Host Address: 192.168.1.54.
+World Opened. 01:36:16 10/29/2008 Host Address: 192.168.1.57.
+World Opened. 01:54:11 10/29/2008 Host Address: 192.168.1.57.
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:04 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:04 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:04 10/29/2008
+
+Level UP:
+   Theonethegame, GM Rank 1000 Level UPed Theonethegame, GM Rank 1000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:57:36 10/29/2008
+
+World Closed. 02:03:28 10/29/2008 Host Address: 192.168.1.57.
+World Opened. 02:46:40 10/29/2008 Host Address: 192.168.1.57.
+World Closed. 02:54:08 10/29/2008 Host Address: 192.168.1.57.
+World Opened. 14:57:58 10/29/2008 Host Address: 192.168.1.58.
+World Closed. 14:59:28 10/29/2008 Host Address: 192.168.1.58.
+World Opened. 16:34:24 10/29/2008 Host Address: 192.168.1.58.
+World Closed. 16:37:04 10/29/2008 Host Address: 192.168.1.58.
+World Opened. 16:53:10 10/29/2008 Host Address: 192.168.1.58.
+World Closed. 16:56:48 10/29/2008 Host Address: 192.168.1.58.
+World Opened. 04:11:08 10/30/2008 Host Address: 192.168.1.59.
+World Closed. 04:11:28 10/30/2008 Host Address: 192.168.1.59.
+World Opened. 04:12:00 10/30/2008 Host Address: 192.168.1.59.
+World Closed. 04:13:04 10/30/2008 Host Address: 192.168.1.59.
+World Opened. 04:13:16 10/30/2008 Host Address: 192.168.1.59.
+World Closed. 04:14:08 10/30/2008 Host Address: 192.168.1.59.
+World Opened. 04:46:59 10/30/2008 Host Address: 192.168.1.59.
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 200 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:47:44 10/30/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:48:16 10/30/2008
+
+World Closed. 04:56:16 10/30/2008 Host Address: 192.168.1.59.
+World Opened. 05:35:12 10/30/2008 Host Address: 192.168.1.59.
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:35:44 10/30/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /mob/Monster/Brolly  (If Given)
+   Other Information: {NPC} Brolly (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:40:32 10/30/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /mob/Monster/Brolly  (If Given)
+   Other Information: {NPC} Brolly (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:40:32 10/30/2008
+
+World Closed. 05:41:36 10/30/2008 Host Address: 192.168.1.59.
+World Opened. 03:11:50 10/31/2008 Host Address: 192.168.1.59.
+World Closed. 03:16:00 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 04:17:07 10/31/2008 Host Address: 192.168.1.59.
+World Closed. 04:17:20 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 04:40:09 10/31/2008 Host Address: 192.168.1.59.
+World Closed. 04:45:36 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 06:32:22 10/31/2008 Host Address: 192.168.1.59.
+World Closed. 06:32:48 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 06:32:48 10/31/2008 Host Address: 192.168.1.59.
+World Closed. 06:34:56 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 06:34:56 10/31/2008 Host Address: 192.168.1.59.
+World Closed. 06:37:36 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 06:59:15 10/31/2008 Host Address: 192.168.1.59.
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:01:36 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:01:36 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: {NPC} Cooler (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:02:08 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: {NPC} Cooler (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:02:40 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:02:40 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:03:12 10/31/2008
+
+UnMute:
+   Theonethegame, GM Rank 10000 UnMuteed Theonethegame, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:03:12 10/31/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 07:03:44 10/31/2008
+
+World Closed. 07:04:16 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 16:58:17 10/31/2008 Host Address: 192.168.1.59.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Android (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:00:00 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:12 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:44 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: {NPC} Race Helper (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:44 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:03:44 10/31/2008
+
+Level UP:
+   All Star, GM Rank 10000 Level UPed All Star, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: All Star (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:04:16 10/31/2008
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Android (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:05:52 10/31/2008
+
+World Closed. 17:09:04 10/31/2008 Host Address: 192.168.1.59.
+World Opened. 02:47:31 11/01/2008 Host Address: 192.168.1.61.
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:16 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:48 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:48 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:48:48 11/01/2008
+
+Level UP:
+   Theonethegame, GM Rank 10000 Level UPed Theonethegame, GM Rank 10000.
+   Reason: How Many levels: 2000 (If Given)
+   Other Information: Who: Theonethegame (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:49:20 11/01/2008
+
+World Closed. 02:53:36 11/01/2008 Host Address: 192.168.1.61.
+World Opened. 18:37:26 11/02/2008 Host Address: 192.168.1.66.
+World Closed. 18:43:44 11/02/2008 Host Address: 192.168.1.66.
+World Opened. 18:58:20 11/02/2008 Host Address: 192.168.1.66.
+World Closed. 18:59:44 11/02/2008 Host Address: 192.168.1.66.
+World Opened. 08:29:00 11/03/2008 Host Address: 192.168.1.68.
+World Closed. 08:29:20 11/03/2008 Host Address: 192.168.1.68.
+World Opened. 08:30:17 11/03/2008 Host Address: 192.168.1.68.
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:30:56 11/03/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:30:56 11/03/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:31:28 11/03/2008
+
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /turf/SaveZone  (If Given)
+   Other Information: SaveZone (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 08:31:28 11/03/2008
+
+World Closed. 08:44:48 11/03/2008 Host Address: 192.168.1.68.
+World Opened. 09:00:35 11/03/2008 Host Address: 192.168.1.68.
+World Closed. 09:01:52 11/03/2008 Host Address: 192.168.1.68.
+World Opened. 09:17:39 11/03/2008 Host Address: 192.168.1.68.
+World Closed. 09:20:32 11/03/2008 Host Address: 192.168.1.68.
+World Opened. 23:51:53 11/03/2008 Host Address: 192.168.1.70.
+World Closed. 23:55:12 11/03/2008 Host Address: 192.168.1.70.
+World Opened. 03:24:22 11/06/2008 Host Address: 192.168.1.5.
+World Closed. 03:25:20 11/06/2008 Host Address: 192.168.1.5.
+World Opened. 05:44:19 11/06/2008 Host Address: 192.168.1.5.
+World Closed. 05:47:44 11/06/2008 Host Address: 192.168.1.5.
+World Opened. 07:01:32 11/06/2008 Host Address: 192.168.1.5.
+World Closed. 07:04:00 11/06/2008 Host Address: 192.168.1.5.
+World Opened. 15:01:07 11/06/2008 Host Address: 192.168.1.5.
+World Closed. 15:02:56 11/06/2008 Host Address: 192.168.1.5.
+World Opened. 03:52:32 11/07/2008 Host Address: 192.168.1.5.
+World Closed. 03:53:04 11/07/2008 Host Address: 192.168.1.5.
+World Opened. 04:05:20 11/07/2008 Host Address: 192.168.1.5.
+World Closed. 04:06:56 11/07/2008 Host Address: 192.168.1.5.
+World Opened. 08:11:31 11/07/2008 Host Address: 192.168.1.5.
+World Closed. 08:12:16 11/07/2008 Host Address: 192.168.1.5.
+World Opened. 05:48:09 11/11/2008 Host Address: 192.168.1.11.
+World Closed. 05:53:04 11/11/2008 Host Address: 192.168.1.11.
+World Opened. 01:44:57 11/13/2008 Host Address: 192.168.1.16.
+World Closed. 01:50:24 11/13/2008 Host Address: 192.168.1.16.
+World Opened. 02:42:08 11/13/2008 Host Address: 192.168.1.16.
+World Closed. 02:46:24 11/13/2008 Host Address: 192.168.1.16.
+World Opened. 02:14:24 11/14/2008 Host Address: 192.168.1.17.
+World Closed. 02:32:32 11/14/2008 Host Address: 192.168.1.17.
+World Opened. 02:44:41 11/14/2008 Host Address: 192.168.1.17.
+World Closed. 02:45:52 11/14/2008 Host Address: 192.168.1.17.
+World Opened. 02:45:52 11/14/2008 Host Address: 192.168.1.17.
+World Closed. 02:53:20 11/14/2008 Host Address: 192.168.1.17.
+World Opened. 14:09:55 11/18/2008 Host Address: 192.168.1.27.
+World Closed. 14:12:16 11/18/2008 Host Address: 192.168.1.27.
+World Opened. 02:07:08 11/20/2008 Host Address: 192.168.1.28.
+World Closed. 02:09:36 11/20/2008 Host Address: 192.168.1.28.
+World Closed. 05:35:12 01/01/1999 Host Address: 127.0.0.1.
+World Closed. 05:38:12 01/01/1999 Host Address: 127.0.0.1.
+World Opened. 12:09:20 01/01/1999 Host Address: 127.0.0.1.
+World Closed. 12:09:27 01/01/1999 Host Address: 127.0.0.1.
+World Opened. 05:52:04 01/02/1999 Host Address: 127.0.0.1.
+World Closed. 05:52:10 01/02/1999 Host Address: 127.0.0.1.
+World Opened. 14:13:45 12/14/2008 Host Address: 192.168.1.27.
+World Closed. 15:13:36 12/14/2008 Host Address: 192.168.1.27.
+World Opened. 16:08:57 12/14/2008 Host Address: 192.168.1.27.
+World Closed. 16:10:40 12/14/2008 Host Address: 192.168.1.27.
+World Opened. 17:07:50 12/14/2008 Host Address: 192.168.1.27.
+World Opened. 18:06:43 12/14/2008 Host Address: 192.168.1.27.
+World Closed. 19:58:56 12/14/2008 Host Address: 192.168.1.27.
+World Closed. 20:25:36 12/14/2008 Host Address: 192.168.1.27.
+World Opened. 20:42:01 12/28/2008 Host Address: 192.168.1.45.
+World Closed. 20:43:12 12/28/2008 Host Address: 192.168.1.45.
+World Opened. 22:51:18 01/11/2009 Host Address: 192.168.1.9.
+World Opened. 02:03:44 01/19/2009 Host Address: 192.168.1.34.
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Goten, GM Rank 0.
+   Reason: Number Level: 1.2 (If Given)
+   Other Information: Rank:  (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 02:05:20 01/19/2009
+
+World Closed. 02:05:52 01/19/2009 Host Address: 192.168.1.34.
+World Opened. 02:29:20 01/19/2009 Host Address: 192.168.1.34.
+World Closed. 02:32:32 01/19/2009 Host Address: 192.168.1.34.
+World Opened. 02:48:57 01/19/2009 Host Address: 192.168.1.34.
+World Closed. 02:49:36 01/19/2009 Host Address: 192.168.1.34.
+World Opened. 03:14:33 01/19/2009 Host Address: 192.168.1.34.
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} SS2 Teen Gohan, GM Rank 0.
+   Reason: Number Level: 10 (If Given)
+   Other Information: Rank: General Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 03:15:12 01/19/2009
+
+World Closed. 03:20:00 01/19/2009 Host Address: 192.168.1.34.
+World Opened. 03:48:16 01/19/2009 Host Address: 192.168.1.34.
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} SS2 Teen Gohan, GM Rank 0.
+   Reason: Number Level: 6 (If Given)
+   Other Information: Rank: Major Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 03:52:32 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} All Star Guild Recruiter, GM Rank 0.
+   Reason: Number Level: 7 (If Given)
+   Other Information: Rank: Commander Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 03:52:32 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Race Helper, GM Rank 0.
+   Reason: Number Level: 8 (If Given)
+   Other Information: Rank: Colonel Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 03:53:04 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Yamcha, GM Rank 0.
+   Reason: Number Level: 9 (If Given)
+   Other Information: Rank: Brigadier Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 03:53:04 01/19/2009
+
+Promote Admin:
+   Theonethegame, GM Rank 10000 Promote Admined {NPC} Kid Buu, GM Rank 0.
+   Reason: Number Level: 10 (If Given)
+   Other Information: Rank: General Council (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Null - IP Address: Null
+   Date/Time: 03:53:36 01/19/2009
+
+World Closed. 04:05:20 01/19/2009 Host Address: 192.168.1.34.
+World Opened. 04:58:14 01/19/2009 Host Address: 192.168.1.34.
+World Closed. 04:58:40 01/19/2009 Host Address: 192.168.1.34.
+World Opened. 03:20:57 02/17/2009 Host Address: 192.168.1.30.
+World Closed. 03:24:16 02/17/2009 Host Address: 192.168.1.30.
+World Opened. 17:15:31 02/21/2009 Host Address: 192.168.1.38.
+Edit:
+   the fgdfg, GM Rank 10000 Edited the fgdfg, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:17:20 02/21/2009
+
+World Closed. 17:29:36 02/21/2009 Host Address: 192.168.1.38.
+World Opened. 19:17:07 02/21/2009 Host Address: 192.168.1.38.
+World Closed. 19:17:52 02/21/2009 Host Address: 192.168.1.38.
+World Opened. 19:17:52 02/21/2009 Host Address: 192.168.1.38.
+Repop:
+   All Star, GM Rank 10000 Repoped All Star, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 19:18:56 02/21/2009
+
+World Closed. 19:18:56 02/21/2009 Host Address: 192.168.1.38.
+World Opened. 19:35:28 02/21/2009 Host Address: 192.168.1.38.
+World Closed. 19:36:00 02/21/2009 Host Address: 192.168.1.38.
+World Opened. 01:22:20 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 01:24:48 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 01:25:20 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 01:25:52 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 02:24:12 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 02:24:32 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 02:24:32 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 02:24:32 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 02:25:04 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 02:25:04 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 02:25:04 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 02:25:36 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 02:25:36 02/28/2009 Host Address: 192.168.1.51.
+World Closed. 02:25:36 02/28/2009 Host Address: 192.168.1.51.
+World Opened. 04:05:20 02/28/2009 Host Address: 192.168.1.52.
+World Opened. 04:07:53 02/28/2009 Host Address: 192.168.1.52.
+World Closed. 04:13:20 02/28/2009 Host Address: 192.168.1.52.
+World Opened. 06:15:53 02/28/2009 Host Address: 192.168.1.52.
+World Closed. 06:17:36 02/28/2009 Host Address: 192.168.1.52.
+World Opened. 06:17:36 02/28/2009 Host Address: 192.168.1.52.
+World Closed. 06:32:00 02/28/2009 Host Address: 192.168.1.52.
+World Opened. 22:46:36 02/28/2009 Host Address: 192.168.1.53.
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Dragon_Fist  (If Given)
+   Other Information: Dragon Fist (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 22:50:40 02/28/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Cannon  (If Given)
+   Other Information: Cannon (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 22:50:40 02/28/2009
+
+World Closed. 22:56:32 02/28/2009 Host Address: 192.168.1.53.
+World Opened. 01:22:46 03/01/2009 Host Address: 192.168.1.53.
+World Closed. 01:23:44 03/01/2009 Host Address: 192.168.1.53.
+World Opened. 01:23:44 03/01/2009 Host Address: 192.168.1.53.
+World Closed. 02:12:16 03/01/2009 Host Address: 192.168.1.53.
+World Opened. 18:03:18 03/01/2009 Host Address: 192.168.1.54.
+World Closed. 18:05:52 03/01/2009 Host Address: 192.168.1.54.
+World Opened. 18:22:56 03/01/2009 Host Address: 192.168.1.54.
+World Closed. 18:25:04 03/01/2009 Host Address: 192.168.1.54.
+World Opened. 19:30:20 03/01/2009 Host Address: 192.168.1.54.
+World Closed. 19:31:44 03/01/2009 Host Address: 192.168.1.54.
+World Opened. 16:15:47 03/04/2009 Host Address: 192.168.1.54.
+World Closed. 16:25:36 03/04/2009 Host Address: 192.168.1.54.
+World Opened. 01:17:39 03/05/2009 Host Address: 192.168.1.57.
+World Closed. 01:30:08 03/05/2009 Host Address: 192.168.1.57.
+World Opened. 21:04:12 03/07/2009 Host Address: 192.168.1.62.
+World Closed. 21:07:44 03/07/2009 Host Address: 192.168.1.62.
+World Opened. 22:41:04 03/07/2009 Host Address: 192.168.1.62.
+World Closed. 22:44:48 03/07/2009 Host Address: 192.168.1.62.
+World Opened. 22:44:54 03/07/2009 Host Address: 192.168.1.62.
+World Closed. 22:44:48 03/07/2009 Host Address: 192.168.1.62.
+World Opened. 00:03:50 03/08/2009 Host Address: 192.168.1.62.
+World Closed. 00:09:04 03/08/2009 Host Address: 192.168.1.62.
+World Opened. 01:45:23 03/08/2009 Host Address: 192.168.1.62.
+World Closed. 01:45:36 03/08/2009 Host Address: 192.168.1.62.
+World Opened. 01:46:14 03/08/2009 Host Address: 192.168.1.62.
+Edit:
+   Theonethegame, GM Rank 10000 Edited Theonethegame, GM Rank 10000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Namek (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:48:48 03/08/2009
+
+World Closed. 01:48:48 03/08/2009 Host Address: 192.168.1.62.
+World Opened. 01:48:48 03/08/2009 Host Address: 192.168.1.62.
+World Closed. 01:56:16 03/08/2009 Host Address: 192.168.1.62.
+World Opened. 22:53:42 03/08/2009 Host Address: 192.168.1.3.
+World Closed. 22:54:08 03/08/2009 Host Address: 192.168.1.3.
+World Opened. 22:54:08 03/08/2009 Host Address: 192.168.1.3.
+World Closed. 23:21:52 03/08/2009 Host Address: 192.168.1.3.
+World Opened. 23:56:00 03/08/2009 Host Address: 192.168.1.3.
+World Closed. 23:57:04 03/08/2009 Host Address: 192.168.1.3.
+World Opened. 00:28:25 03/09/2009 Host Address: 192.168.1.3.
+World Closed. 01:00:32 03/09/2009 Host Address: 192.168.1.3.
+World Opened. 01:00:51 03/09/2009 Host Address: 192.168.1.3.
+World Closed. 01:13:20 03/09/2009 Host Address: 192.168.1.3.
+World Opened. 02:58:11 03/09/2009 Host Address: 192.168.1.3.
+World Closed. 03:00:00 03/09/2009 Host Address: 192.168.1.3.
+World Opened. 04:08:35 03/09/2009 Host Address: 192.168.1.3.
+World Closed. 04:14:40 03/09/2009 Host Address: 192.168.1.3.
+World Opened. 04:14:33 03/09/2009 Host Address: 192.168.1.3.
+World Closed. 04:15:24 03/09/2009 Host Address: 192.168.1.3.
+World Opened. 06:25:58 03/09/2009 Host Address: 192.168.1.3.
+Edit:
+   Theonethegame, GM Rank 10000 Edited Theonethegame, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 13 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:29:36 03/09/2009
+
+World Closed. 06:33:20 03/09/2009 Host Address: 192.168.1.3.
+World Opened. 04:59:21 03/11/2009 Host Address: 192.168.1.10.
+World Closed. 05:02:08 03/11/2009 Host Address: 192.168.1.10.
+World Opened. 05:44:35 03/11/2009 Host Address: 192.168.1.10.
+World Closed. 06:20:00 03/11/2009 Host Address: 192.168.1.10.
+World Opened. 06:37:29 03/11/2009 Host Address: 192.168.1.10.
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /obj/Dragonballs/Earth_Dragonball_2  (If Given)
+   Other Information: Earth Dragonball 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 06:40:16 03/11/2009
+
+World Closed. 06:40:48 03/11/2009 Host Address: 192.168.1.10.
+World Opened. 15:36:48 03/13/2009 Host Address: 192.168.1.16.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 25921 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:37:20 03/13/2009
+
+World Closed. 16:05:04 03/13/2009 Host Address: 192.168.1.16.
+World Opened. 04:20:57 03/14/2009 Host Address: 192.168.1.19.
+World Closed. 04:28:32 03/14/2009 Host Address: 192.168.1.19.
+World Opened. 05:16:25 03/14/2009 Host Address: 192.168.1.19.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:17:04 03/14/2009
+
+World Closed. 05:25:36 03/14/2009 Host Address: 192.168.1.19.
+World Opened. 05:56:06 03/14/2009 Host Address: 192.168.1.19.
+World Closed. 06:05:04 03/14/2009 Host Address: 192.168.1.19.
+World Opened. 08:12:38 03/14/2009 Host Address: 192.168.1.19.
+World Closed. 08:33:52 03/14/2009 Host Address: 192.168.1.19.
+World Opened. 03:45:07 03/15/2009 Host Address: 192.168.1.22.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:48:00 03/15/2009
+
+World Closed. 03:48:00 03/15/2009 Host Address: 192.168.1.22.
+World Opened. 04:07:18 03/15/2009 Host Address: 192.168.1.22.
+World Closed. 04:10:24 03/15/2009 Host Address: 192.168.1.22.
+World Opened. 03:00:44 03/16/2009 Host Address: 192.168.1.22.
+World Closed. 03:59:12 03/16/2009 Host Address: 192.168.1.22.
+World Opened. 14:18:17 03/19/2009 Host Address: 192.168.1.32.
+World Closed. 15:26:40 03/19/2009 Host Address: 192.168.1.32.
+World Opened. 02:09:32 03/20/2009 Host Address: 192.168.1.32.
+World Closed. 02:12:32 03/20/2009 Host Address: 192.168.1.32.
+World Opened. 02:32:09 03/20/2009 Host Address: 192.168.1.32.
+World Closed. 02:34:56 03/20/2009 Host Address: 192.168.1.32.
+World Opened. 03:02:01 03/20/2009 Host Address: 192.168.1.32.
+World Closed. 03:13:52 03/20/2009 Host Address: 192.168.1.32.
+World Opened. 04:26:04 03/20/2009 Host Address: 192.168.1.32.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: vegeta_wins (If Given)
+   Other Information: Typesof: 3 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:28:00 03/20/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 5 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:28:32 03/20/2009
+
+World Closed. 04:34:56 03/20/2009 Host Address: 192.168.1.32.
+World Opened. 15:26:59 03/20/2009 Host Address: 192.168.1.32.
+World Closed. 15:35:12 03/20/2009 Host Address: 192.168.1.32.
+World Opened. 15:35:12 03/20/2009 Host Address: 192.168.1.32.
+World Closed. 15:40:32 03/20/2009 Host Address: 192.168.1.32.
+World Opened. 04:38:01 03/21/2009 Host Address: 192.168.1.43.
+World Closed. 04:38:40 03/21/2009 Host Address: 192.168.1.43.
+World Opened. 04:40:35 03/21/2009 Host Address: 192.168.1.43.
+World Closed. 04:51:28 03/21/2009 Host Address: 192.168.1.43.
+World Opened. 04:56:48 03/21/2009 Host Address: 192.168.1.43.
+Delete:
+   Theonethegame, GM Rank 10000 Deleteed Theonethegame, GM Rank 10000.
+   Reason: /obj/Blast2/Soul_Punisher  (If Given)
+   Other Information: Soul Punisher (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:01:04 03/21/2009
+
+World Closed. 05:01:04 03/21/2009 Host Address: 192.168.1.43.
+World Opened. 03:38:43 03/22/2009 Host Address: 192.168.1.42.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 12 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:41:36 03/22/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Ki_Blast  (If Given)
+   Other Information: Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:45:52 03/22/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Ki_Blast  (If Given)
+   Other Information: Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:45:52 03/22/2009
+
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Ki_Blast  (If Given)
+   Other Information: Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:46:24 03/22/2009
+
+World Closed. 04:13:04 03/22/2009 Host Address: 192.168.1.42.
+World Opened. 04:29:04 03/22/2009 Host Address: 192.168.1.42.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: nappa_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:33:52 03/22/2009
+
+World Closed. 04:36:00 03/22/2009 Host Address: 192.168.1.42.
+World Opened. 04:53:23 03/22/2009 Host Address: 192.168.1.42.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: vegeta_wins (If Given)
+   Other Information: Typesof: 29 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:54:40 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 32 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:54:40 03/22/2009
+
+World Closed. 04:56:48 03/22/2009 Host Address: 192.168.1.42.
+World Opened. 05:16:00 03/22/2009 Host Address: 192.168.1.42.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: raditz_wins (If Given)
+   Other Information: Typesof: 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:22:24 03/22/2009
+
+World Closed. 05:22:56 03/22/2009 Host Address: 192.168.1.42.
+World Opened. 05:44:09 03/22/2009 Host Address: 192.168.1.42.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: nappa_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:45:52 03/22/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: nappa_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 05:45:52 03/22/2009
+
+World Closed. 05:47:28 03/22/2009 Host Address: 192.168.1.42.
+World Opened. 02:29:10 03/24/2009 Host Address: 192.168.1.52.
+World Closed. 02:31:44 03/24/2009 Host Address: 192.168.1.52.
+World Opened. 03:47:40 03/24/2009 Host Address: 192.168.1.52.
+World Closed. 03:52:16 03/24/2009 Host Address: 192.168.1.52.
+World Opened. 04:14:33 03/24/2009 Host Address: 192.168.1.52.
+World Closed. 04:16:48 03/24/2009 Host Address: 192.168.1.52.
+World Opened. 05:38:36 03/24/2009 Host Address: 192.168.1.52.
+World Closed. 06:20:32 03/24/2009 Host Address: 192.168.1.52.
+World Opened. 08:27:08 03/24/2009 Host Address: 192.168.1.52.
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 44 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 
+   Target Information: Key: Archfiend Master - IP Address: 
+   Date/Time: 08:31:12 03/24/2009
+
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: kid_buu_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 
+   Target Information: Key: Archfiend Master - IP Address: 
+   Date/Time: 08:48:48 03/24/2009
+
+World Closed. 08:52:32 03/24/2009 Host Address: 192.168.1.52.
+World Opened. 00:18:36 03/26/2009 Host Address: 192.168.1.56.
+World Closed. 00:18:56 03/26/2009 Host Address: 192.168.1.56.
+World Opened. 00:19:02 03/26/2009 Host Address: 169.254.188.231.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kid_buu_wins (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 00:33:52 03/26/2009
+
+World Closed. 00:34:24 03/26/2009 Host Address: 169.254.188.231.
+World Opened. 02:15:05 03/26/2009 Host Address: 192.168.1.58.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 23 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:18:56 03/26/2009
+
+World Closed. 02:22:40 03/26/2009 Host Address: 192.168.1.58.
+World Opened. 14:02:04 03/26/2009 Host Address: 192.168.1.57.
+World Closed. 14:01:52 03/26/2009 Host Address: 192.168.1.57.
+World Opened. 14:27:40 03/26/2009 Host Address: 192.168.1.57.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kills (If Given)
+   Other Information: Typesof: 12 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 14:28:32 03/26/2009
+
+World Opened. 14:30:40 03/26/2009 Host Address: 192.168.1.57.
+World Closed. 14:30:40 03/26/2009 Host Address: 192.168.1.57.
+World Closed. 14:32:22 03/26/2009 Host Address: 192.168.1.57.
+World Opened. 15:27:50 03/26/2009 Host Address: 192.168.1.57.
+World Closed. 15:31:28 03/26/2009 Host Address: 192.168.1.57.
+World Opened. 15:31:40 03/26/2009 Host Address: 192.168.1.57.
+World Closed. 15:31:40 03/26/2009 Host Address: 192.168.1.57.
+World Opened. 15:31:40 03/26/2009 Host Address: 192.168.1.57.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kills (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 15:33:23 03/26/2009
+
+World Opened. 01:27:18 03/27/2009 Host Address: 192.168.1.57.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: kills (If Given)
+   Other Information: Typesof: 10007 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:36:16 03/27/2009
+
+World Closed. 01:53:52 03/27/2009 Host Address: 192.168.1.57.
+World Opened. 03:34:27 03/27/2009 Host Address: 192.168.1.60.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: deaths (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:35:12 03/27/2009
+
+World Closed. 03:39:28 03/27/2009 Host Address: 192.168.1.60.
+World Opened. 14:51:34 03/27/2009 Host Address: 192.168.1.57.
+World Closed. 15:00:32 03/27/2009 Host Address: 192.168.1.57.
+World Opened. 01:40:57 03/28/2009 Host Address: 192.168.1.62.
+World Closed. 01:41:36 03/28/2009 Host Address: 192.168.1.62.
+World Opened. 01:41:36 03/28/2009 Host Address: 192.168.1.62.
+Edit:
+   Theonethegame, GM Rank 10000 Edited Theonethegame, GM Rank 10000.
+   Reason: Variable: deaths (If Given)
+   Other Information: Typesof: 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:44:16 03/28/2009
+
+World Closed. 01:45:20 03/28/2009 Host Address: 192.168.1.62.
+World Opened. 04:46:59 03/28/2009 Host Address: 192.168.1.62.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: karma_rating (If Given)
+   Other Information: Typesof: 4 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 04:47:12 03/28/2009
+
+World Closed. 04:52:32 03/28/2009 Host Address: 192.168.1.62.
+World Opened. 05:11:18 03/28/2009 Host Address: 192.168.1.62.
+World Closed. 05:12:48 03/28/2009 Host Address: 192.168.1.62.
+World Opened. 16:19:28 03/28/2009 Host Address: 192.168.1.62.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: karma (If Given)
+   Other Information: Typesof: Good (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 16:20:32 03/28/2009
+
+World Closed. 16:30:08 03/28/2009 Host Address: 192.168.1.62.
+World Opened. 03:02:01 03/29/2009 Host Address: 192.168.1.64.
+World Closed. 03:09:04 03/29/2009 Host Address: 192.168.1.64.
+World Opened. 13:09:36 03/29/2009 Host Address: 192.168.1.66.
+World Closed. 13:22:56 03/29/2009 Host Address: 192.168.1.66.
+World Opened. 14:55:50 03/29/2009 Host Address: 192.168.1.67.
+World Closed. 14:55:44 03/29/2009 Host Address: 192.168.1.67.
+World Opened. 14:56:16 03/29/2009 Host Address: 192.168.1.67.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 3 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 14:58:56 03/29/2009
+
+World Closed. 15:01:36 03/29/2009 Host Address: 192.168.1.67.
+World Opened. 15:22:17 03/29/2009 Host Address: 192.168.1.67.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 3 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:26:08 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:27:12 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Mins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:28:16 03/29/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: Hrs (If Given)
+   Other Information: Typesof: 2 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 15:28:16 03/29/2009
+
+World Closed. 15:31:28 03/29/2009 Host Address: 192.168.1.67.
+World Opened. 15:58:33 03/29/2009 Host Address: 192.168.1.67.
+World Closed. 16:12:00 03/29/2009 Host Address: 192.168.1.67.
+World Opened. 16:58:43 03/29/2009 Host Address: 192.168.1.67.
+World Closed. 17:08:32 03/29/2009 Host Address: 192.168.1.67.
+World Opened. 01:27:18 03/31/2009 Host Address: 192.168.1.72.
+Delete:
+   All Star, GM Rank 10000 Deleteed All Star, GM Rank 10000.
+   Reason: /obj/Chaos_Demon_Ki_Blast  (If Given)
+   Other Information: Chaos Demon Ki Blast (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:35:12 03/31/2009
+
+World Closed. 01:48:00 03/31/2009 Host Address: 192.168.1.72.
+World Opened. 02:08:41 03/31/2009 Host Address: 192.168.1.72.
+World Closed. 02:21:04 03/31/2009 Host Address: 192.168.1.72.
+World Opened. 14:48:09 03/31/2009 Host Address: 192.168.1.72.
+World Closed. 14:50:24 03/31/2009 Host Address: 192.168.1.72.
+World Opened. 15:13:20 03/31/2009 Host Address: 192.168.1.72.
+World Closed. 15:43:12 03/31/2009 Host Address: 192.168.1.72.
+World Opened. 00:29:16 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 00:33:52 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 00:33:58 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 00:34:56 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 00:34:49 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 00:34:56 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 00:35:15 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 00:35:28 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 00:53:36 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 00:59:28 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 01:43:05 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 01:44:48 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 02:24:28 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 03:13:52 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 03:37:26 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 03:38:56 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 04:01:20 04/02/2009 Host Address: 192.168.1.80.
+World Closed. 04:04:32 04/02/2009 Host Address: 192.168.1.80.
+World Opened. 05:42:01 04/03/2009 Host Address: 192.168.1.85.
+World Closed. 05:44:16 04/03/2009 Host Address: 192.168.1.85.
+World Opened. 06:11:53 04/03/2009 Host Address: 192.168.1.85.
+World Closed. 06:17:52 04/03/2009 Host Address: 192.168.1.85.
+World Opened. 06:35:47 04/03/2009 Host Address: 192.168.1.85.
+World Closed. 06:41:20 04/03/2009 Host Address: 192.168.1.85.
+World Opened. 23:16:44 04/04/2009 Host Address: 192.168.1.93.
+World Closed. 23:18:40 04/04/2009 Host Address: 192.168.1.93.
+World Opened. 00:02:49 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 00:12:32 04/05/2009 Host Address: 192.168.1.93.
+World Opened. 00:27:34 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 00:29:04 04/05/2009 Host Address: 192.168.1.93.
+World Opened. 00:29:16 04/05/2009 Host Address: 192.168.1.93.
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: witness_deaths (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Target Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Date/Time: 00:40:48 04/05/2009
+
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 44 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Target Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Date/Time: 00:42:04 04/05/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 00:44:12 04/05/2009
+
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: arena_wins (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Target Information: Key: Theonethegame - IP Address: 127.0.0.1
+   Date/Time: 00:48:03 04/05/2009
+
+World Opened. 01:35:50 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 01:44:48 04/05/2009 Host Address: 192.168.1.93.
+World Opened. 01:51:37 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 01:58:40 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 02:38:33 04/05/2009 Host Address: 192.168.1.93.
+World Opened. 03:02:01 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 03:05:20 04/05/2009 Host Address: 192.168.1.93.
+World Opened. 14:30:40 04/05/2009 Host Address: 192.168.1.93.
+World Closed. 21:17:42 04/05/2009 Host Address: 192.168.1.93.
+World Opened. 21:39:53 04/05/2009 Host Address: 192.168.1.94.
+World Closed. 21:43:18 04/05/2009 Host Address: 192.168.1.94.
+World Opened. 21:57:48 04/05/2009 Host Address: 192.168.1.94.
+World Opened. 23:44:03 04/05/2009 Host Address: 192.168.1.94.
+World Closed. 23:44:48 04/05/2009 Host Address: 192.168.1.94.
+World Opened. 23:44:48 04/05/2009 Host Address: 192.168.1.94.
+World Closed. 23:45:20 04/05/2009 Host Address: 192.168.1.94.
+World Closed. 23:49:10 04/05/2009 Host Address: 192.168.1.94.
+World Opened. 00:15:37 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 00:19:28 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 00:19:28 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 00:25:26 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 00:54:01 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 00:54:40 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 00:54:52 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 00:58:24 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 01:23:53 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 01:25:36 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 01:25:36 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 01:59:44 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 02:13:48 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 02:16:16 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 02:38:33 04/06/2009 Host Address: 192.168.1.94.
+World Closed. 02:40:16 04/06/2009 Host Address: 192.168.1.94.
+World Opened. 16:42:56 04/07/2009 Host Address: 192.168.1.3.
+World Closed. 16:44:00 04/07/2009 Host Address: 192.168.1.3.
+World Opened. 05:18:08 04/08/2009 Host Address: 192.168.1.9.
+World Closed. 05:18:08 04/08/2009 Host Address: 192.168.1.9.
+World Opened. 05:18:33 04/08/2009 Host Address: 192.168.1.9.
+World Closed. 05:21:07 04/08/2009 Host Address: 192.168.1.9.
+World Opened. 01:00:00 04/10/2009 Host Address: 192.168.1.21.
+World Mute:
+   NameLess, GM Rank 10000 World Muteed NameLess, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:01:04 04/10/2009
+
+World Closed. 01:07:28 04/10/2009 Host Address: 192.168.1.21.
+World Opened. 01:58:52 04/10/2009 Host Address: 192.168.1.21.
+Attempted Mute:
+   All Star, GM Rank 10000 tried to Mute All Star, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:59:44 04/10/2009
+
+Attempted Mute:
+   All Star, GM Rank 10000 tried to Mute All Star, GM Rank 10000.
+   Reason: No Reason (If Given)
+   Other Information: No Other (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 01:59:44 04/10/2009
+
+World Closed. 02:03:28 04/10/2009 Host Address: 192.168.1.21.
+World Opened. 02:54:20 04/10/2009 Host Address: 192.168.1.21.
+World Closed. 02:54:40 04/10/2009 Host Address: 192.168.1.21.
+World Opened. 17:59:44 04/11/2009 Host Address: 192.168.1.31.
+World Closed. 18:08:16 04/11/2009 Host Address: 192.168.1.31.
+World Opened. 19:52:48 04/11/2009 Host Address: 192.168.1.31.
+World Closed. 20:04:32 04/11/2009 Host Address: 192.168.1.31.
+World Opened. 03:28:28 04/12/2009 Host Address: 192.168.1.33.
+Edit:
+   NameLess, GM Rank 10000 Edited NameLess, GM Rank 10000.
+   Reason: Variable: icon (If Given)
+   Other Information: Typesof: <IMG CLASS=icon SRC=[0xc000134]> (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 03:31:28 04/12/2009
+
+World Closed. 03:48:00 04/12/2009 Host Address: 192.168.1.33.
+World Opened. 01:25:10 04/14/2009 Host Address: 192.168.1.40.
+World Closed. 01:25:36 04/14/2009 Host Address: 192.168.1.40.
+World Opened. 01:45:13 04/14/2009 Host Address: 192.168.1.40.
+World Closed. 01:45:20 04/14/2009 Host Address: 192.168.1.40.
+World Opened. 01:45:39 04/14/2009 Host Address: 192.168.1.40.
+Edit:
+   All Star, GM Rank 10000 Edited All Star, GM Rank 10000.
+   Reason: Variable: eviltest (If Given)
+   Other Information: Typesof: 1 (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 02:09:52 04/14/2009
+
+World Closed. 02:25:52 04/14/2009 Host Address: 192.168.1.40.
+World Opened. 16:33:32 04/20/2009 Host Address: 192.168.1.67.
+World Closed. 16:48:16 04/20/2009 Host Address: 192.168.1.67.
+World Opened. 02:45:23 04/23/2009 Host Address: 192.168.1.74.
+World Closed. 02:47:44 04/23/2009 Host Address: 192.168.1.74.
+World Opened. 03:37:00 04/23/2009 Host Address: 192.168.1.74.
+World Closed. 04:03:28 04/23/2009 Host Address: 192.168.1.74.
+World Opened. 04:03:28 04/24/2009 Host Address: 192.168.1.80.
+World Closed. 04:06:01 04/24/2009 Host Address: 192.168.1.80.
+World Opened. 11:21:13 04/25/2009 Host Address: 127.0.0.1.
+Edit:
+   All Star, GM Rank 100000 Edited All Star, GM Rank 100000.
+   Reason: Variable: race (If Given)
+   Other Information: Typesof: Half Saiyan (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 11:21:52 04/25/2009
+
+World Closed. 11:24:32 04/25/2009 Host Address: 127.0.0.1.
+World Opened. 18:13:48 04/26/2009 Host Address: 192.168.1.92.
+World Closed. 18:23:44 04/26/2009 Host Address: 192.168.1.92.
+World Opened. 21:30:04 04/26/2009 Host Address: 192.168.1.92.
+World Closed. 21:38:56 04/26/2009 Host Address: 192.168.1.92.
+World Opened. 21:38:56 04/26/2009 Host Address: 192.168.1.92.
+World Closed. 21:39:28 04/26/2009 Host Address: 192.168.1.92.
+World Opened. 21:39:28 04/26/2009 Host Address: 192.168.1.92.
+World Closed. 23:22:56 04/26/2009 Host Address: 192.168.1.92.
+World Opened. 15:59:50 04/29/2009 Host Address: 192.168.1.108.
+World Closed. 16:41:52 04/29/2009 Host Address: 192.168.1.108.
+World Opened. 01:03:50 04/30/2009 Host Address: 192.168.1.109.
+World Closed. 01:11:44 04/30/2009 Host Address: 192.168.1.109.
+World Opened. 01:54:36 04/30/2009 Host Address: 192.168.1.109.
+World Closed. 01:57:36 04/30/2009 Host Address: 192.168.1.109.
+World Opened. 15:58:59 04/30/2009 Host Address: 192.168.1.109.
+World Closed. 16:17:20 04/30/2009 Host Address: 192.168.1.109.
+World Opened. 04:23:56 05/01/2009 Host Address: 192.168.1.113.
+World Closed. 04:24:48 05/01/2009 Host Address: 192.168.1.113.
+World Opened. 14:38:46 05/02/2009 Host Address: 192.168.1.119.
+World Closed. 14:42:24 05/02/2009 Host Address: 192.168.1.119.
+World Opened. 19:44:16 05/02/2009 Host Address: 192.168.1.119.
+World Closed. 19:46:24 05/02/2009 Host Address: 192.168.1.119.
+World Opened. 17:48:12 05/03/2009 Host Address: 192.168.1.121.
+Level UP:
+   All Star, GM Rank 100000 Level UPed All Star, GM Rank 100000.
+   Reason: How Many levels: 0 (If Given)
+   Other Information: Who: {NPC} SS2 Teen Gohan (If Given)
+   Admin Information: Key: Theonethegame - IP Address: 
+   Target Information: Key: Theonethegame - IP Address: 
+   Date/Time: 17:50:40 05/03/2009
+
+World Closed. 17:51:44 05/03/2009 Host Address: 192.168.1.121.
+World Opened. 17:52:54 05/03/2009 Host Address: 192.168.1.121.
+World Closed. 18:04:32 05/03/2009 Host Address: 192.168.1.121.
+World Opened. 05:11:18 06/05/2009 Host Address: 192.168.1.4.
+World Closed. 05:12:16 06/05/2009 Host Address: 192.168.1.4.
+World Opened. 22:00:48 06/27/2009 Host Address: 192.168.1.11.
+World Closed. 22:00:48 06/27/2009 Host Address: 192.168.1.11.
+World Opened. 15:12:28 08/04/2009 Host Address: 192.168.1.179.
+World Closed. 15:14:56 08/04/2009 Host Address: 192.168.1.179.
+World Opened. 11:58:20 08/06/2009 Host Address: 192.168.1.246.
+World Closed. 11:59:12 08/06/2009 Host Address: 192.168.1.246.
+World Closed. 14:57:07 08/08/2009 Host Address: 192.168.1.5.
+World Opened. 15:40:38 08/08/2009 Host Address: 192.168.1.5.
+World Closed. 15:42:40 08/08/2009 Host Address: 192.168.1.5.
+World Opened. 15:51:44 08/08/2009 Host Address: 192.168.1.5.
+World Closed. 15:52:16 08/08/2009 Host Address: 192.168.1.5.
+World Opened. 14:13:16 08/16/2009 Host Address: 192.168.1.64.
+World Closed. 14:14:08 08/16/2009 Host Address: 192.168.1.64.
+World Opened. 17:39:21 08/22/2009 Host Address: 192.168.1.65.
+World Closed. 17:40:00 08/22/2009 Host Address: 192.168.1.65.
+World Closed. 20:33:10 05/29/2011 Host Address: 10.0.0.3.
+World Closed. 20:33:10 05/29/2011 Host Address: 10.0.0.3.

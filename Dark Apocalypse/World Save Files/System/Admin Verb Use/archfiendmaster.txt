@@ -1,0 +1,40 @@
+Edit:
+   Archfiend Master, GM Rank 1000 Edited Archfiend Master, GM Rank 1000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 3513 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 
+   Target Information: Key: Archfiend Master - IP Address: 
+   Date/Time: 04:02:24 10/10/2008
+
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 44 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 
+   Target Information: Key: Archfiend Master - IP Address: 
+   Date/Time: 08:31:12 03/24/2009
+
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: kid_buu_wins (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 
+   Target Information: Key: Archfiend Master - IP Address: 
+   Date/Time: 08:48:48 03/24/2009
+
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: witness_deaths (If Given)
+   Other Information: Typesof: 0 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Target Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Date/Time: 00:40:48 04/05/2009
+
+Edit:
+   Archfiend Master, GM Rank 10000 Edited Archfiend Master, GM Rank 10000.
+   Reason: Variable: level (If Given)
+   Other Information: Typesof: 44 (If Given)
+   Admin Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Target Information: Key: Archfiend Master - IP Address: 127.0.0.1
+   Date/Time: 00:42:04 04/05/2009
+
