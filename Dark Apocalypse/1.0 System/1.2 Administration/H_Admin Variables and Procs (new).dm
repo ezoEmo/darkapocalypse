@@ -42,7 +42,7 @@ var/const/SM6=""
 var/const/SM7=""
 //5: GM* - Game Maker
 //If you need more than 7 default *GM*s, you can add them yourself :)
-var/const/GAME_MAKER1=""
+var/const/GAME_MAKER1="Darker Legends"
 var/const/GAME_MAKER2=""
 var/const/GAME_MAKER3=""
 var/const/GAME_MAKER4=""

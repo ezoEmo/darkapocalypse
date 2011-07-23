@@ -241,11 +241,9 @@ mob/Guest
 			var/mob/mobcreation
 			var/newname = null
 			var/config = "065-090&097-122&095&032"
-			alert("This is a Final Version 5. Have Fun. If you find any bugs plz post them on the forums")
-			alert("Follow the rules.And dont bug All-Star for GM or get ready for a world of pain.")
-
+			alert("This is version 5, have fun. If you find any bugs please report them on the forums.")
+			alert("Follow the rules, don't beg All-Star for GM or get ready for a world of pain.")
 			while(!asciifilter(newname,config)||newname == null)newname = input("Pick Character Name","Name",src.key) as text
-
 			if(ckey(newname) in Name)
 				alert("This name is already in use. Try again please,")
 				Create()
@@ -271,12 +269,9 @@ mob/Guest
 				Create()
 
 			else
-
 				newname = html_encode(newname)
 				var/race = input("What were you born as?","Choose a Birth Race") in list ("Bio-Android","Dark Neo","Changling","Slayer","Half Saiyan","Bardock","Human","Majin","Namek","Saiyan","Evil Saiyan (Members Only)","All Star (Members Only)","Tuffle","Android","Demon","Dragon","Bojack","Kai","Saibaman","Good Demon","Makenshi","Legend","Nightmire Dragon","Bio Warrior","Dark Angel","Cooler","Uub","Konats")
 				switch(race)
-
-
 					if("Cooler")
 						mobcreation = new /mob/PC()
 						mobcreation.contents += new/obj/Transform/Transform
@@ -290,7 +285,6 @@ mob/Guest
 						mobcreation.defence = 10
 						mobcreation.defence_max = 10
 						mobcreation.Karma()
-
 					if("Dark Angel")
 						mobcreation = new /mob/PC()
 						mobcreation.contents += new/obj/Transform/Transform
@@ -671,12 +665,9 @@ mob/Guest
 				mobcreation.loc = locate(145,60,1)
 				mobcreation.name = newname
 
-				if(src.save_file_1)
-					mobcreation.save_file_1 = 1
-				if(src.save_file_2)
-					mobcreation.save_file_2 = 1
-				if(src.save_file_3)
-					mobcreation.save_file_3 = 1
+				if(src.save_file_1)	mobcreation.save_file_1 = 1
+				else if(src.save_file_2)	mobcreation.save_file_2 = 1
+				else if(src.save_file_3)	mobcreation.save_file_3 = 1
 
 				var/savefile/N = new("World Save Files/Player Names.sav")
 				Name.Add(ckey(mobcreation.name))
@@ -685,4 +676,3 @@ mob/Guest
 				world << "<font color =red>Dark Apocalypse Information: <font color = white>Everyone welcome our newest Player: [mobcreation.name] the [mobcreation.race]!"
 				src.client.mob = mobcreation
 				del(src)
-

@@ -1,8 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-DIR: 2.0 Player Character\2.2 Player Items 
-FILE: Custom Races for others.dm
+LAST_COMPILE_VERSION: 489.1099
+UPDATE_OBJ_TREE: ON
+DIR: 1.0 System New Moves 
+FILE: Medals.dm
+LAST_COMPILE_TIME: 1311422040
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS

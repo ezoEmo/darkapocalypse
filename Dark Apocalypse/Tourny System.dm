@@ -22,7 +22,7 @@ mob/Tournament
 		Enter_Tournament()
 			set category = "Tournament"
 			set name = "Enter Tournament"
-			if(usr.tourny == 1)
+			if(usr.tourny)
 				usr<<"<font color=white><b><u>Your already in the tournament!</font></b></u>"
 				return
 			else
@@ -33,7 +33,7 @@ mob/Tournament
 		Leave_Tournament()
 			set category = "Tournament"
 			set name = "Leave Tournament"
-			if(usr.tourny == 0)
+			if(!usr.tourny)
 				usr<<"<font color=white><b><u>Your not in the tournament!</font></b></u>"
 				return
 			else

@@ -251,23 +251,21 @@ mob
 	proc
 		Time()
 			sleep(600)
-			usr.Mins+=1
-			usr.Time2()
+			src.Mins+=1
+			src.Time2()
 		Time2()
-			if(usr.Mins==60)
-				usr.Hrs+=1
-				usr.Mins=0
-				usr.Time3()
+			if(src.Mins>=60)
+				src.Hrs+=1
+				src.Mins=0
+				src.Time3()
 			else
-				usr.Time()
+				src.Time()
 		Time3()
-			if(usr.Hrs==100)
-				if(usr.Time4==0)
-					world.SetMedal("Nothing But Time",usr)
-					usr <<"<font color=blue> <center> ((( You have Unlocked 'Nothing But Time' Medal)))"
-					world << "<font color =Yellow>Dark Apocalypse Medals Information:<font color=white>[usr] has Unlocked 'Nothing But Time' Medal."
+			if(src.Hrs>=100)
+				if(src.Time4<=0)
+					world.SetMedal("Nothing But Time",src)
+					src <<"<font color=blue> <center> ((( You have Unlocked 'Nothing But Time' Medal)))"
+					world << "<font color =Yellow>Dark Apocalypse Medals Information:<font color=white>[src] has Unlocked 'Nothing But Time' Medal."
 					usr.Time4+=1
 			else
-				usr.Time2()
-
-
+				src.Time2()

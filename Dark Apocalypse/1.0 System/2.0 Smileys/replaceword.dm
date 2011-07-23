@@ -53,7 +53,7 @@ proc/replaceword(string, search, replace)
 	return(string)
 
 proc/replaceWord(String, Search, Replace)
-	if(!findText(String, Search)) return String
+	if(!findtextEx(String, Search)) return String
 	var/tmp/String_len = lentext(String)
 	var/tmp/Search_len = lentext(Search)
 	var/tmp/Replace_len = lentext(Replace)
@@ -64,7 +64,7 @@ proc/replaceWord(String, Search, Replace)
 
 	for(var/Pos = 1, Pos <= String_len-Search_len+1, Pos++)
 		var/Char = copytext(String, Pos, Pos+1) //determine if this is a break between words
-		if(isalphabetic(Char) || Ignores.Find(Char) || findText(Search, Char))
+		if(isalphabetic(Char) || Ignores.Find(Char) || findtextEx(Search, Char))
 			if(!last_Char)
 
 				var/following_Char = " " //defaults to a space in case it's the end of the string
@@ -74,7 +74,7 @@ proc/replaceWord(String, Search, Replace)
 				//if the search string is followed by a non-alpha, we have a complete word
 				if(!isalphabetic(following_Char))
 					//now, if the word matches, replace it appropriately!
-					if(cmpText(copytext(String, Pos, Pos+Search_len), Search))
+					if(cmptextEx(copytext(String, Pos, Pos+Search_len), Search))
 						String = copytext(String, 1, Pos) + Replace + copytext(String, Pos+Search_len)
 						String_len += Replace_len - Search_len
 

@@ -5,7 +5,7 @@ mob
 				set category = "Member"
 				switch(alert(M,"[usr] is giving you a chance to change your race to Demonic Warror , Accept?","Change Race","Yes","No"))
 					if("Yes")
-						if(M.level==0)
+						if(M.level<=0)
 							M.race = "Demonic Warror"
 							M.icon = 'Demonic Warror Form 1.dmi'
 							M.karma = "Good"
